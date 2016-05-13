@@ -1,4 +1,5 @@
 <?php
+
     // função que executa SQL para insert
     // INSERT INTO $tabela ($chaves,...) VALUES ($valores)
     function insert($dados, $tabela) {
